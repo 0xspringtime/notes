@@ -6,6 +6,12 @@
 
 2. Show that $\frac{-1+\sqrt{3} i}{2}$ is a cube root of 1 (meaning that its cube equals 1 ).
 
+    $\left(\frac{-1+\sqrt{3}i}{2}\right)^2=\frac{-1-\sqrt{3}i}{2},$ so
+
+    $\left(\frac{-1+\sqrt{3}i}{2}\right)^3=\frac{-1-\sqrt{3}i}{2}\cdot\frac{-1+\sqrt{3}i}{2}=1.$
+
+    thus $\dfrac{-1+\sqrt{3}i}{2}$ is a cube root of 1.
+
 3. Find two distinct square roots of $i$.
 
 4. Show that $\alpha+\beta=\beta+\alpha$ for all $\alpha, \beta \in \mathbf{C}$.
