@@ -28,7 +28,8 @@
 
 6. Show that $(\alpha \beta) \lambda=\alpha(\beta \lambda)$ for all $\alpha, \beta, \lambda \in \mathbf{C}$. (Associative Multiplication)
 
-   $$(\alpha\beta)\lambda=((x_1x_2-y_1y_2)+(x_1y_2+y_1x_2)i)(x_3+y_3i)\\ =((x_1x_2-y_1y_2)x_3-(x_1y_2+y_1x_2)y_3)\\+((x_1x_2-y_1y_2)y_3+(x_1y_2+y_1x_2)x_3)i.$$ 
+   $$(\alpha\beta)\lambda=((x_1x_2-y_1y_2)+(x_1y_2+y_1x_2)i)(x_3+y_3i)\\ =((x_1x_2-y_1y_2)x_3-(x_1y_2+y_1x_2)y_3)\\ +((x_1x_2-y_1y_2)y_3+(x_1y_2+y_1x_2)x_3)i.$$ 
+   and $$\alpha(\beta\lambda)=(x_1+y_1i)((x_2x_3-y_2y_3)+(x_2y_3+y_2x_3)i)\\ =(x_1(x_2x_3-y_2y_3)-y_1(x_2y_3+y_2x_3))\\ +(x_1(x_2y_3+y_2x_3)+y_1(x_2x_3-y_2y_3))i.$$ so $$(x_1x_2-y_1y_2)x_3-(x_1y_2+y_1x_2)y_3=x_1(x_2x_3-y_2y_3)-y_1(x_2y_3+y_2x_3)$$ and $$(x_1x_2-y_1y_2)y_3+(x_1y_2+y_1x_2)x_3=x_1(x_2y_3+y_2x_3)+y_1(x_2x_3-y_2y_3),$$ thus $(\alpha\beta)\lambda=\alpha(\beta\lambda)$
 
 7. Show that for every $\alpha \in \mathbf{C}$, there exists a unique $\beta \in \mathbf{C}$ such that $\alpha+\beta=0$.
 
