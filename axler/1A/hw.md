@@ -37,7 +37,11 @@
 
 8. Show that for every $\alpha \in \mathbf{C}$ with $\alpha \neq 0$, there exists a unique $\beta \in \mathbf{C}$ such that $\alpha \beta=1$.
 
+    since $\alpha\beta=1$, $\beta=1\cdot\beta=\left(\frac{1}{\alpha}\cdot\alpha\right)\cdot\beta=\frac{1}{\alpha}\cdot\left(\alpha\cdot\beta\right)=\frac{1}{\alpha}\cdot1=\frac{1}{\alpha}.$
+
 9. Show that $\lambda(\alpha+\beta)=\lambda \alpha+\lambda \beta$ for all $\lambda, \alpha, \beta \in \mathbf{C}$.
+
+    
 
 10. Find $x \in \mathbf{R}^4$ such that$(4,-3,1,7)+2 x=(5,9,-6,8) .$
 
