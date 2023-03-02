@@ -16,7 +16,11 @@
 
     $i=e^{\pi i/2}$ so $e^{\pi i/4}\quad\text{and}\quad e^{(\pi i/2+2\pi i)/2}=e^{5\pi i/4}.$
 
+    Since $e^{xi}=\cos x+i\sin x$, this is also writable as $e^{\pi i/4}=\cos\frac{\pi}{4}+i\sin\frac{\pi}{4}=\frac{\sqrt{2}(1+i)}{2}$ by Euler's formula
+
 4. Show that $\alpha+\beta=\beta+\alpha$ for all $\alpha, \beta \in \mathbf{C}$.
+
+    Let $\alpha=x+yi$ and $\beta=z+wi$ where $x,y,z,w\in\mathbb R$ so $$\alpha+\beta=(x+yi)+(z+wi)=(x+z)+(y+w)i.$$ and $$\beta+\alpha=(z+wi)+(x+yi)=(z+x)+(w+y)i.$$
 
 5. Show that $(\alpha+\beta)+\lambda=\alpha+(\beta+\lambda)$ for all $\alpha, \beta, \lambda \in \mathbf{C}$.
 
