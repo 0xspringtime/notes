@@ -22,11 +22,13 @@
 
     Let $\alpha=x+yi$ and $\beta=z+wi$ where $x,y,z,w\in\mathbb R$ so $$\alpha+\beta=(x+yi)+(z+wi)=(x+z)+(y+w)i.$$ and $$\beta+\alpha=(z+wi)+(x+yi)=(z+x)+(w+y)i.$$ thus equal by associativity
 
-5. Show that $(\alpha+\beta)+\lambda=\alpha+(\beta+\lambda)$ for all $\alpha, \beta, \lambda \in \mathbf{C}$.
+5. Show that $(\alpha+\beta)+\lambda=\alpha+(\beta+\lambda)$ for all $\alpha, \beta, \lambda \in \mathbf{C}$. (Associative Addition)
 
     $\alpha=x_1+y_1i$, $\beta=x_2+y_2i$, $\lambda=x_3+y_3i$, then  $$(\alpha+\beta)+\lambda=((x_1+x_2)+(y_1+y_2)i)+(x_3+y_3i)\\ =((x_1+x_2)+x_3)+((y_1+y_2)+y_3)i.$$ and $$\alpha+(\beta+\lambda)=(x_1+(x_2+x_3))+(y_1+(y_2+y_3))i$$ since $(x_1+x_2)+x_3=x_1+(x_2+x_3)\quad\text{and}\quad (y_1+y_2)+y_3=y_1+(y_2+y_3),$ $(\alpha+\beta)+\lambda=\alpha+(\beta+\lambda)$
 
-6. Show that $(\alpha \beta) \lambda=\alpha(\beta \lambda)$ for all $\alpha, \beta, \lambda \in \mathbf{C}$.
+6. Show that $(\alpha \beta) \lambda=\alpha(\beta \lambda)$ for all $\alpha, \beta, \lambda \in \mathbf{C}$. (Associative Multiplication)
+
+   $$(\alpha\beta)\lambda=((x_1x_2-y_1y_2)+(x_1y_2+y_1x_2)i)(x_3+y_3i)\\ =((x_1x_2-y_1y_2)x_3-(x_1y_2+y_1x_2)y_3)\\+((x_1x_2-y_1y_2)y_3+(x_1y_2+y_1x_2)x_3)i.$$ 
 
 7. Show that for every $\alpha \in \mathbf{C}$, there exists a unique $\beta \in \mathbf{C}$ such that $\alpha+\beta=0$.
 
