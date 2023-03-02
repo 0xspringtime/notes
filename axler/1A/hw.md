@@ -2,7 +2,7 @@
 
 1. Suppose $a$ and $b$ are real numbers, not both 0 . Find real numbers $c$ and $d$ such that $1 /(a+b i)=c+d i .$
 
-Because $(a+bi)(a-bi)=a^2+b^2$, $\frac{1}{a+bi}=\frac{a-bi}{a^2+b^2}.$, so $c=\frac{a}{a^2+b^2}, d=-\frac{b}{a^2+b^2}.$
+    Because $(a+bi)(a-bi)=a^2+b^2$, $\frac{1}{a+bi}=\frac{a-bi}{a^2+b^2}.$, so $c=\frac{a}{a^2+b^2}, d=-\frac{b}{a^2+b^2}.$
 
 2. Show that $\frac{-1+\sqrt{3} i}{2}$ is a cube root of 1 (meaning that its cube equals 1 ).
 
