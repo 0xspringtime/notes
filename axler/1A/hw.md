@@ -22,7 +22,7 @@ $\frac{1}{a+bi}=\frac{a-bi}{a^2+b^2}.$
 
 10 Find $x \in \mathbf{R}^4$ such that$(4,-3,1,7)+2 x=(5,9,-6,8) .$
 
-11 Explain why there does not exist $\lambda \in \mathbf{C}$ such that$\lambda(2-3 i, 5+4 i,-6+7 i)=(12-5 i, 7+22 i,-32-9 i) .$
+11 Explain why there does not exist $\lambda \in \mathbf{C}$ such that $\lambda(2-3 i, 5+4 i,-6+7 i)=(12-5 i, 7+22 i,-32-9 i) .$
 
 12 Show that $(x+y)+z=x+(y+z)$ for all $x, y, z \in \mathbf{F}^n$.
 
