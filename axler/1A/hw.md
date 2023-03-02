@@ -33,6 +33,8 @@
 
 7. Show that for every $\alpha \in \mathbf{C}$, there exists a unique $\beta \in \mathbf{C}$ such that $\alpha+\beta=0$.
 
+    $\alpha=x_1+y_1i$, $\beta=x_2+y_2i$, if $\alpha+\beta=0$ then $0=\alpha+\beta=(x_1+x_2)+(y_1+y_2)i.$ implying $x_2=-x_1 and y_2=-y_1$ so if $\beta=-x_1-y_1i$ we have $\alpha+\beta=0$
+
 8. Show that for every $\alpha \in \mathbf{C}$ with $\alpha \neq 0$, there exists a unique $\beta \in \mathbf{C}$ such that $\alpha \beta=1$.
 
 9. Show that $\lambda(\alpha+\beta)=\lambda \alpha+\lambda \beta$ for all $\lambda, \alpha, \beta \in \mathbf{C}$.
