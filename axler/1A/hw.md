@@ -24,7 +24,7 @@
 
 5. Show that $(\alpha+\beta)+\lambda=\alpha+(\beta+\lambda)$ for all $\alpha, \beta, \lambda \in \mathbf{C}$.
 
-    $\alpha=x_1+y_1i$, $\beta=x_2+y_2i$, $\lambda=x_3+y_3i$, then  $$\begin{aligned} (\alpha+\beta)+\lambda=&((x_1+x_2)+(y_1+y_2)i)+(x_3+y_3i)\\ =&((x_1+x_2)+x_3)+((y_1+y_2)+y_3)i.\end{aligned}$$ and $$\alpha+(\beta+\lambda)=(x_1+(x_2+x_3))+(y_1+(y_2+y_3))i$$ since $(x_1+x_2)+x_3=x_1+(x_2+x_3)\quad\text{and}\quad (y_1+y_2)+y_3=y_1+(y_2+y_3),$ $(\alpha+\beta)+\lambda=\alpha+(\beta+\lambda)$
+    $\alpha=x_1+y_1i$, $\beta=x_2+y_2i$, $\lambda=x_3+y_3i$, then  $$(\alpha+\beta)+\lambda=&((x_1+x_2)+(y_1+y_2)i)+(x_3+y_3i)\\ =&((x_1+x_2)+x_3)+((y_1+y_2)+y_3)i.$$ and $$\alpha+(\beta+\lambda)=(x_1+(x_2+x_3))+(y_1+(y_2+y_3))i$$ since $(x_1+x_2)+x_3=x_1+(x_2+x_3)\quad\text{and}\quad (y_1+y_2)+y_3=y_1+(y_2+y_3),$ $(\alpha+\beta)+\lambda=\alpha+(\beta+\lambda)$
 
 6. Show that $(\alpha \beta) \lambda=\alpha(\beta \lambda)$ for all $\alpha, \beta, \lambda \in \mathbf{C}$.
 
