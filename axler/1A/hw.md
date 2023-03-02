@@ -14,6 +14,8 @@
 
 3. Find two distinct square roots of $i$.
 
+    $i=e^{\pi i/2}$ so $e^{\pi i/4}\quad\text{and}\quad e^{(\pi i/2+2\pi i)/2}=e^{5\pi i/4}.$
+
 4. Show that $\alpha+\beta=\beta+\alpha$ for all $\alpha, \beta \in \mathbf{C}$.
 
 5. Show that $(\alpha+\beta)+\lambda=\alpha+(\beta+\lambda)$ for all $\alpha, \beta, \lambda \in \mathbf{C}$.
