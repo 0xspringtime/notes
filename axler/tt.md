@@ -1,6 +1,6 @@
 O3WqPh6FILn7kawYLAImq06uJdd3SKZlPDaI1UOVUnYFlOfKVacxgQ6TLfNm5nYF
 
-THE UNREALITY OF TIME - J. ELLIS MCTAGGA
+# THE UNREALITY OF TIME - J. ELLIS MCTAGGA
 
 "In philosophy, again, time is treatedas unrealby Spinoza,by Kant,by Hegel and by Schopenhauer"
 
@@ -33,7 +33,7 @@ does not seem to have contemplated the possibility that 'anything in the nature 
 
 aTFZ7Gi0F+bztapO9KPGkH12OBiOrfxTLC6iPNTl4V+v5Kgg8rp2DLs3iGXaCOQc
 
-Four Dimensionalism - Theodore Sider
+# Four Dimensionalism - Theodore Sider
 
  - primitive notions of fourth-dimensionalism: the mereological notion of a part at a time, and the spatiotemporal notion of existing at a time.
  - Four-dimensionalists tend to speak of the parts of an object simpliciter, rather than the parts it has at this time or that.
@@ -73,12 +73,12 @@ Without loss of generality, the result follows.
 
 9lHu1Xwl+6CNqG9tJUfRSFsK7SqKSvCV5DG1wNSonA3mwF52dMaCiMRHjivSEPZ07Z9+BYQ1OWN71XDqpdM6+g==
 
-ON BEING IN THE SAME PLACE AT THE SAME TIME - David Wiggins
+# ON BEING IN THE SAME PLACE AT THE SAME TIME - David Wiggins
 
  - The "is" of material constitution is not the "is" of identity
 
  P5XSVhGISm7c9bNs2753WPILr/QrQ3I++yRf8xsNmnZMENAEkTAS92c92kSKgAsLl05Ixyc+Ym59w5ZR04jP0e5zfjE6ol0LF47qooM41ms=
 
-THE PARADOXES OF TIME TRAVEL - David Lewis
+# THE PARADOXES OF TIME TRAVEL - David Lewis
 
 
