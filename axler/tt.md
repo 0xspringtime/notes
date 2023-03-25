@@ -41,4 +41,8 @@ Four Dimensionalism - Theodore Sider
  - Four-dimensionalists accept the notion of change as a difference between successive temporal parts.
  - Change occurs in relations and mereology as well.
 
+temporal parthood: P@T) Necessarily, x is part of y at t iff x and y each exist at t, and x’s temporal part at t is part of y’s temporal part at t
 
+"As with temporary parthood, there is a principle governing existence-at that is accepted by the four dimensionalist but not by the three dimensionalist: an object exists at a time iff it has a temporal part that exists at that time."
+
+Thesis of Temporal Locality Necessarily, for any object $\mathrm{x}$, and for any non-empty, non-overlapping sets of times $T_1$ and $T_2$ whose union is the time span of $x$, there are two objects $\mathrm{x}_1$ and $\mathrm{x}_2$, such that i) $\mathrm{x}_1$ and $\mathrm{x}$ have the same parts at every time in $T_1$, ii) $x_2$ and $x$ have the same parts at every time in $T_2$, and iii) the time span of $x_1=T_1$, while the time span of $x_2=T_2$
