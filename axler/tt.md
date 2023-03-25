@@ -45,4 +45,10 @@ temporal parthood: P@T) Necessarily, x is part of y at t iff x and y each exist 
 
 "As with temporary parthood, there is a principle governing existence-at that is accepted by the four dimensionalist but not by the three dimensionalist: an object exists at a time iff it has a temporal part that exists at that time."
 
-Thesis of Temporal Locality Necessarily, for any object $\mathrm{x}$, and for any non-empty, non-overlapping sets of times $T_1$ and $T_2$ whose union is the time span of $x$, there are two objects $\mathrm{x}_1$ and $\mathrm{x}_2$, such that i) $\mathrm{x}_1$ and $\mathrm{x}$ have the same parts at every time in $T_1$, ii) $x_2$ and $x$ have the same parts at every time in $T_2$, and iii) the time span of $x_1=T_1$, while the time span of $x_2=T_2$
+Thesis of Temporal Locality: Necessarily, for any object $\mathrm{x}$, and for any non-empty, non-overlapping sets of times $T_1$ and $T_2$ whose union is the time span of $x$, there are two objects $\mathrm{x}_1$ and $\mathrm{x}_2$, such that i) $\mathrm{x}_1$ and $\mathrm{x}$ have the same parts at every time in $T_1$, ii) $x_2$ and $x$ have the same parts at every time in $T_2$, and iii) the time span of $x_1=T_1$, while the time span of $x_2=T_2$
+
+$\mathrm{x}$ is an instantaneous temporal part of $\mathrm{y}$ at instant $\mathrm{t}={ }_{d f}$ i) $\mathrm{x}$ exists at, but only at $t$, ii) $\mathrm{x}$ is part of $\mathrm{y}$ at $t$, and iii) $\mathrm{x}$ overlaps at $t$ everything that is part of $\mathrm{y}$ at $\mathrm{t}$
+
+ - three dimensionalists reject the Thesis of Temporal Locality, together with its implication that all objects must have temporal parts
+
+Argument premises:
