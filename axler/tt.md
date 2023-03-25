@@ -68,5 +68,17 @@ P1′: If not every assignment has a minimal D-fusion, then there must be a pair
 P2′: In no continuous series is there an abrupt cutoff in whether minimal D-fusion occurs
 P3′: In any case of minimal D-fusion, either minimal D-fusion definitely occurs, or minimal D-fusion de nitely does not occur
 
-${ }$ Proof: $(\mathrm{U})$ tells us that some object $\mathrm{x}_1$ is a minimal $\mathrm{D}$-fusion of the assignment, $f$, with domain $T_1$, which assigns $\{x\}$ to every member of $T_1$. The time span of $x_1=T_1$, since a) $x_1$ exists only at times in $f$ 's domain, and no time outside of $T_1$ is in $f$ 's domain, and b) $x_1$ contains $x$ as a part and hence exists at every t? $T_1$. Moreover, where $t$ is any time in $T_1, x_1$ is a fusion of $\{x\}$ at $t$. We now show that $x_1$ and $x$ have the same parts at $t$ i) Let $y$ be part of $x$ at $t ; x$ is part of $x_1$ at $t$ since $x_1$ is a fusion of $\{x\}$ at $t$; but then $y$ is part of $x_1$ at $t$. ii) Let $y$ be part of $x_1$ at $t$, and suppose for reductio that $y$ isn't part of $x$ at $t$. $\mathrm{By}(\mathrm{PO})$ (see note 10$)$, $y$ has a part, $z$, at $t$ that $x$ doesn't overlap at $t$. Since $x_1$ is a fusion of $\{x\}$ at $t, x$ overlaps every part of $x_1$ at $t$. But $z$ is part of $\mathrm{x}_1$ at $\mathrm{t}$. Contradiction.
+${}$ Proof for Thesis of Temporal Locality: $(\mathrm{U})$ tells us that some object $\mathrm{x}_1$ is a minimal $\mathrm{D}$-fusion of the assignment, $f$, with domain $T_1$, which assigns $\{x\}$ to every member of $T_1$. The time span of $x_1=T_1$, since a) $x_1$ exists only at times in $f$ 's domain, and no time outside of $T_1$ is in $f$ 's domain, and b) $x_1$ contains $x$ as a part and hence exists at every t? $T_1$. Moreover, where $t$ is any time in $T_1, x_1$ is a fusion of $\{x\}$ at $t$. We now show that $x_1$ and $x$ have the same parts at $t$ i) Let $y$ be part of $x$ at $t ; x$ is part of $x_1$ at $t$ since $x_1$ is a fusion of $\{x\}$ at $t$; but then $y$ is part of $x_1$ at $t$. ii) Let $y$ be part of $x_1$ at $t$, and suppose for reductio that $y$ isn't part of $x$ at $t$. $\mathrm{By}(\mathrm{PO})$ (see note 10$)$, $y$ has a part, $z$, at $t$ that $x$ doesn't overlap at $t$. Since $x_1$ is a fusion of $\{x\}$ at $t, x$ overlaps every part of $x_1$ at $t$. But $z$ is part of $\mathrm{x}_1$ at $\mathrm{t}$. Contradiction.
 Without loss of generality, the result follows.
+
+9lHu1Xwl+6CNqG9tJUfRSFsK7SqKSvCV5DG1wNSonA3mwF52dMaCiMRHjivSEPZ07Z9+BYQ1OWN71XDqpdM6+g==
+
+ON BEING IN THE SAME PLACE AT THE SAME TIME - David Wiggins
+
+ - The "is" of material constitution is not the "is" of identity
+
+ P5XSVhGISm7c9bNs2753WPILr/QrQ3I++yRf8xsNmnZMENAEkTAS92c92kSKgAsLl05Ixyc+Ym59w5ZR04jP0e5zfjE6ol0LF47qooM41ms=
+
+THE PARADOXES OF TIME TRAVEL - David Lewis
+
+
