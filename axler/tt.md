@@ -31,4 +31,8 @@ THE UNREALITY OF TIME - J. ELLIS MCTAGGA
 "If this view is adopted, the result will so farresemblethose reached by Hegel ratherthan those of Kant. For Hegel regarded the order of the time-series as a reflexion,though a distorted reflexion,of something in the real nature of the timeless reality, while Kant
 does not seem to have contemplated the possibility that 'anything in the nature of the noumenon should correspond to the time order which appears in the phenomenon"
 
+aTFZ7Gi0F+bztapO9KPGkH12OBiOrfxTLC6iPNTl4V+v5Kgg8rp2DLs3iGXaCOQc
+
+Four Dimensionalism - Theodore Sider
+
 
