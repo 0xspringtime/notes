@@ -35,4 +35,10 @@ aTFZ7Gi0F+bztapO9KPGkH12OBiOrfxTLC6iPNTl4V+v5Kgg8rp2DLs3iGXaCOQc
 
 Four Dimensionalism - Theodore Sider
 
+ - primitive notions of fourth-dimensionalism: the mereological notion of a part at a time, and the spatiotemporal notion of existing at a time.
+ - Four-dimensionalists tend to speak of the parts of an object simpliciter, rather than the parts it has at this time or that.
+ - Four-dimensionalists use an atemporal notion of exemplification of properties and relations.
+ - Four-dimensionalists accept the notion of change as a difference between successive temporal parts.
+ - Change occurs in relations and mereology as well.
+
 
