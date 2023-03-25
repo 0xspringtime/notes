@@ -81,4 +81,5 @@ Without loss of generality, the result follows.
 
 # THE PARADOXES OF TIME TRAVEL - David Lewis
 
-
+"I have argued so far that what goes on in a time travel story may be a possible pattern of events in four-dimensional space-time with no extra time dimension; that it may be correct to regard the scattered stages of the alleged time traveler as comprising a single
+ person; and  that we may legitimately assign to those stages and their  surroundings a personal time order that disagrees sometimes with their order in external time."
