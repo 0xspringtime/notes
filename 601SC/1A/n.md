@@ -50,4 +50,3 @@ own environment, whose parent is __builtin__
 
 - Subclass: derived/child class; inherits properties from superclass/parent class
 
-- 
