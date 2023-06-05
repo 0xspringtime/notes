@@ -16,4 +16,12 @@ where:
 - $o(it, st) \to ot$ represents the output function, mapping the input at time $t$ and the state at time $t$ to the output at time $t$, and
 - $s_0$ represents the initial state, which is the state at time 0.
 
+- Cascade Composition:  take two machines and use the output of the first one as the input to the second
 
+- Parallel Composition: two machines run side by side with output of of composite machine being pair of outputs by individual machines
+
+- ParallelAdd: just like Parallel, except that it has a single output whose value is the sum of the outputs of the constituent machines
+
+- Plant: factory or other external environment that we might wish to control; output usually thought of as sensory observations
+
+- 
