@@ -45,3 +45,9 @@ own environment, whose parent is __builtin__
 - classes and instances are environments
 
 - Method: procedure associated with a particular class
+
+- Inheritance: allows class to inherit properties (instances and methods) of another class
+
+- Subclass: derived/child class; inherits properties from superclass/parent class
+
+- 
