@@ -24,4 +24,3 @@ where:
 
 - Plant: factory or other external environment that we might wish to control; output usually thought of as sensory observations
 
-- 
