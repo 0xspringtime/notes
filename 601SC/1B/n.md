@@ -16,6 +16,8 @@ where:
 - $o(it, st) \to ot$ represents the output function, mapping the input at time $t$ and the state at time $t$ to the output at time $t$, and
 - $s_0$ represents the initial state, which is the state at time 0.
 
+## Machines
+
 - Cascade Composition:  take two machines and use the output of the first one as the input to the second
 
 - Parallel Composition: two machines run side by side with output of of composite machine being pair of outputs by individual machines
